@@ -2,10 +2,808 @@
 
 ===== GRI.pdf =====
 Section: ÍNDICE GRI, Score: 0.5449589490890503
+Text: 47 / ÍNDICE GRI /  2016 INTEGRATED ANNUAL REPORT
+06GENERAL STANDARD DISCLOSURES
+INDICATOR DESCRIPTION PAGE / DIRECT OMISSION EXTERNAL
+  ANSWER  VERIFICATION
+IDENTIFIED MATERIAL ASPECTS AND BOUNDARIES
+G4- 17 List all entities included in the organization’s consolidated  
+ financial statements or equivalent documents.  43-44  e 
+ Report whether any entity included in the organization’s  
+ consolidated financial statements or equivalent  
+ documents is not covered by the report.     
+G4- 18 Explain the process for defining the report  
+ content and the Aspect Boundaries.  44  e 
+ Explain how the organization has implemented the   
+ Reporting Principles for Defining Report Content.     
+G4- 19 List all the material Aspects identified in the process  
+ for defining report content.  44-45  e   
+G4- 20 For each material Aspect, report the Aspect Boundary  
+ within the organization. 44-45  e
+G4- 21 For each material Aspect, report the Aspect Boundary  
+ outside the organization  44-45  e 
+G4- 22 DEffect of any restatements of information provided in  
+ previous reports, and the reasons for such restatements  43  e 
+G4- 23 Significant changes from previous reporting periods  
+ in the Scope and Aspect Boundaries  43  e 
+ STAKEHOLDER ENGAGEMENTG4- 24 List of stakeholder groups engaged by the organization. 13-14    e
+G4- 25 Basis for identification and selection of stakeholders  
+ with whom to engage.  13-14  e
+G4- 26 Organization’s approach to stakeholder engagement,  
+ including frequency of engagement by type and by  13-14  e 
+ stakeholder group, and an indication of whether any  
+ of the engagement was undertaken specifically as part of  
+ the report preparation process.    
+G4- 27 Key topics and concerns that have been raised through  
+ stakeholder engagement, and how the organization has  13-14  e 
+ responded to those key topics and concerns, including  
+ through its reporting. Report the stakeholder groups that  
+ raised each of the key topics and concerns.
+
 Section: ÍNDICE GRI, Score: 0.5585421919822693
+Text: 49 / ÍNDICE GRI /  2016 INTEGRATED ANNUAL REPORT
+06GENERAL STANDARD DISCLOSURES
+INDICATOR DESCRIPTION PAGE / DIRECT OMISSION EXTERNAL
+  ANSWER  VERIFICATION
+ GOVERNANCE
+G4- 37 Processes for consultation between stakeholders and  40-41 This describes the “Corporate Government” e 
+ the highest governance body on economic, environmental   section and is described in detail at  
+ and social topics.   www.grupolala.com/inversionistas   
+G4- 38 Composition of the highest governance body  
+ and its committees.  40-41  e 
+G4- 39 Whether the Chair of the highest governance body is also 40-41  e 
+ an executive officer (and, if so, his or her function within  
+ the organization’s management and the reasons  
+ for this arrangement).    
+G4- 40 Report the nomination and selection processes for the  40-41  e 
+ highest governance body and its committees, and the  
+ criteria used for nominating and selecting highest  
+ governance body members. 
+G4- 41 Processes for the highest governance body to ensure  38-39  e 
+ conflicts of interest are avoided and managed. Whether  
+ conflicts of interest are disclosed to stakeholders.    
+G4- 44 a. Processes for evaluation of the highest governance 38, 40-41 This describes the “Corporate  e 
+ body’s performance with respect to governance of  Government” section and is  
+ economic, environmental, and social topics. Report whether   described in detail at  
+ such evaluation is independent or not, and its frequency.   www.grupolala.com/inversionistas  
+ Report whether such evaluation is a selfassessment.
+
 Section: ÍNDICE GRI, Score: 0.5462706685066223
+Text: 50 / ÍNDICE GRI /  2016 INTEGRATED ANNUAL REPORT
+06GENERAL STANDARD DISCLOSURES
+INDICATOR DESCRIPTION PAGE / DIRECT OMISSION EXTERNAL
+  ANSWER  VERIFICATION
+ EVALUACIÓN DE LAS COMPETENCIAS Y EL DESEMPEÑO DEL ÓRGANO SUPERIOR DE GOBIERNO
+G4- 44  b. Actions taken in response to evaluation of the highest 38, 40-41 This describes the “Corporate  e 
+ governance body’s performance with respect to  Government” section and is  
+ governance of economic, environmental, and social topics,  described in detail at  
+ including, as a minimum, changes in membership and  www.grupolala.com/inversionistas  
+ organizational practice.   
+G4- 49 Process for communicating critical concerns  
+ to the highest governance body.  38-41  e
+G4- 52 Process for determining remuneration. Report whether 38-41  e 
+ remuneration consultants are involved in determining  
+ remuneration and whether they are independent of  
+ management. Report any other relationships which the  
+ remuneration consultants have with the organization.     
+     
+ETHICS AND INTEGRITYG4- 56 Organization’s values, principles, standards, and norms  
+ of behavior such as codes of conduct and codes of ethics.  5, 38-39  e
+G4-57 Internal and external mechanisms for seeking advice on 38-39  e 
+ ethical and lawful behavior, and matters related to  
+ organizational integrity, such as helplines or advice lines. 
+ G4-58 Internal and external mechanisms for reporting concerns 38-39  e 
+ about unethical or unlawful behavior, and matters related  
+ to organizational integrity, such as escalation through line  
+ management, whistleblowing mechanisms or hotlines.
+
 Section: ÍNDICE GRI, Score: 0.6093343496322632
+Text: 52 / ÍNDICE GRI /  2016 INTEGRATED ANNUAL REPORT
+06SPECIFIC STANDARS DISCLOSURES
+INDICATOR DESCRIPTION PAGE / DIRECT OMISSION EXTERNAL
+  ANSWER  VERIFICATION
+ENVIROMENTAL
+WaterG4-EN11     
+ EmissionsG4-EN15  Direct greenhouse gas (GHG) emissions (scope 1). 36-37   e  
+G4-EN16  Energy indirect greenhouse gas (GHG) emissions (scope 2).  36-37  e 
+G4-EN19  Reduction of GHG emissions.    e
+ Effluents and wasteG4-EN22 Total water discharge by quality and destination. For water discharge in municipal sewers   e 
+  2,801,243 m3 with treatment of primary  
+  residual waters: physicochemical,  
+  biological, aerobic, anaerobic in  
+  fulfillment of the NOM 002, in process of  
+  initial ultrafiltration and inverse osmosis  
+  to recover  365000 m3 of water a year in  
+  fulfillment of NOM 127 which will add   
+  373,502 m3 with tertiary inverse osmosis  
+  system in fulfillment of NOM 127  
+  discharched to a federal recipient,  
+  primary physicochemical, biological tin  
+  fulfillment of NOM-001-1996, recipient  
+  type B plus tertiary (ultrafiltration and  
+  inverse osmosis. Recovery in initial phase  
+  of o 237,250 m3 of water a year  
+  with NOM 127.
+
 Section: ÍNDICE GRI, Score: 0.59731125831604
+Text: 53 / ÍNDICE GRI /  2016 INTEGRATED ANNUAL REPORT
+06SPECIFIC STANDARS DISCLOSURES
+INDICATOR DESCRIPTION PAGE / DIRECT OMISSION EXTERNAL
+  ANSWER  VERIFICATION
+ENVIROMENTAL  
+Effluents and waste
+G4-EN23 Total weight of hazardous and nonhazardous waste. 37 The weight of the residues  
+   is not specified since this  
+   information is confidential e
+  
+Products and servicesG4-EN27  Mitigation of environmental impacts  
+ of products and services 35-37  e  
+ComplianceG4-EN29 Monetary value of significant fines and total number  There was a total of 3 fines in 2016, due  e 
+ of non-monetary sanctions for non-compliance with to the speedy change in the regulatory  
+ environmental law and regulations.   framework. These fines added up   
+   to $210,300 pesos.  
+     
+ TransportG4-EN30  Significant environmental impacts of transporting 36  e 
+ products and other goods and materials for the  
+ organization’s operations, and transporting members  
+ of the workforce.     
+     
+ OverallG4-EN31 Total environmental protection expenditures Residual waters 21%, primary and  e 
+ and investments by type. secondary distribution vehicles 78%.  
+   Renewable energies 0.28%  
+ 
+Supplier Enviromental Assessment
+G4-EN32 Percentage of new suppliers that were screened Our main suppliers sustainability reports  e 
+ using environmental criteria.   were revised (Tetrapack, Paalsgard,FMC)
+
 Section: ÍNDICE GRI, Score: 0.5853813290596008
+Text: 54 / ÍNDICE GRI /  2016 INTEGRATED ANNUAL REPORT
+06SPECIFIC STANDARS DISCLOSURES
+INDICATOR DESCRIPTION PAGE / DIRECT OMISSION EXTERNAL
+  ANSWER  VERIFICATION
+ SOCIAL
+SOCIAL LABOR PRACTICES AND DECENT WORK Occupational health and safety
+G4-LA5  Percentage of total workforce represented in formal joint  21  e
+ 
+ management–worker health and safety committees  
+ that help monitor and advice on occupational health  
+ and safety programs.     
+     
+G4-LA8   21  e
+Training and educationn
+G4-LA9  Average hours of training per year per employee by gender,  17-18  e 
+ and by employee category.       
+G4-LA10  Programs for skills management and lifelong learning that  17-18  e 
+ support the continued employability of employees and  
+ assist them in managing career endings.      
+G4-LA11   17-18  e 
+  The information is not  
+  broken down in  
+  professional categories  
+  since this information  
+  is confidential.  
+     
+Diversity and equal opportunity
+G4-LA12  Composition of governance bodies and breakdown of  16  e 
+ employees per employee category according to gender,  
+ age group, minority group membership, and other  
+ indicators of diversity     
+     
+Supplier assessment for labor practicesG4-LA14  Suppliers that were screened using labor practices criteria.  The company is not in 
+ 
+  possession of such 
+  information
+
 Section: ÍNDICE GRI, Score: 0.571198582649231
+Text: 55 / ÍNDICE GRI /  2016 INTEGRATED ANNUAL REPORT
+06SPECIFIC STANDARS DISCLOSURES
+INDICATOR DESCRIPTION PAGE / DIRECT OMISSION EXTERNAL
+  ANSWER  VERIFICATION
+  SOCIAL
+ SOCIETY Local communitiesG4-SO1  Percentage of operations with implemented local  31-34  e 
+ community engagement, impact assessments,  
+ and development programs.    
+  
+Anti-corruptionG4-SO4  Total number and percentage of governance body  38-39  e 
+ members that the organization’s anticorruption policies  
+ and procedures have been communicated to,  
+ broken down by region.     
+      
+  
+Supplier assessment for impact on societyG4-SO9   New suppliers that were screened using criteria The company is not in possession e 
+ for impacts on society.  of such information   
+      
+ SOCIAL PRODUCT RESPONSIBILITYCustomer health and safetyG4-PR1  Significant product and service categories for which  22-24  e 
+ health and safety impacts are assessed.     
+G4-PR2 Total number of incidents of non-compliance with  No incidents are derived from the  
+ regulations and voluntary codes concerning the health  unfulfillment of any code related to e 
+ and safety impacts of products and services within the  health and safety of our products.  
+ reporting period.   
+    
+ Product and service labelingG4-PR3 Product and service information and labeling.  30  e
+
 Section: ÍNDICE GRI, Score: 0.8113194704055786
+Text: 57 / ÍNDICE GRI /  2016 INTEGRATED ANNUAL REPORT
+06SPECIFIC STANDARS DISCLOSURES
+INDICATOR DESCRIPTION PAGE / DIRECT OMISSION EXTERNAL
+  ANSWER  VERIFICATION
+ SOCIAL
+Salud y Seguridad Personal del Cliente
+FP6 Percentage of total sales volume of consumer products, 27  e 
+  by product category, that are lowered in saturated fat,  
+ trans fats, sodium and added sugars.     
+FP7 Percentage of total sales volume of consumer products,   
+ by product category, that contain increased nutritious  27  e 
+ ingredients like fiber, vitamins, minerals, phytochemicals  
+ or functional food.
+
+
+
+===== GRI2.pdf =====
+Section: GRI, Score: 0.5164713859558105
+Text: 39
+GRI Supplementary Report 2016
+ 14.  GRI Index
+ 14.1  General Standard Disclosures
+14.  GRI Index
+Our reporting is prepared in accordance with the “Core” option of the G4 Sustainability Reporting Guide -
+lines drawn up by the Global Reporting Initiative (GRI). The following table includes all sustainability indi-
+cators to be listed according to the G4 “Core” option as well as further sustainability indicators reported 
+by us. It sets out where they are presented within the Covestro Annual Report and the supplementary 
+sustainability information.
+All the check-marked  √ statements in the report and thus most of the quantitative, specific standard 
+disclosures listed in section 14.2 were audited by PricewaterhouseCoopers AG Wirtschaftsprüfungs -
+gesellschaft. More information on this audit can be found in the audit report [on p. 50 et seqq.].
+14.1.  General Standard Disclosures
+w
+Gene Ral StanD aRD DISCloSuRe S
+General Standard 
+DisclosuresStandard  Disclosure titleSection / page  
+in the Covestro 
+annual Report 
+2016Section / page in 
+the Covestro GRI Supplementary 
+Report 2016 Comment
+STRATEGY AND ANAL YSIS
+G4-1 CEO statementLetter to Stockhold-
+ers / p. 8 et seqq.
+ORGANIZATIONAL PROFILE
+G4-3Name of the 
+ organizationSection 1 Structure /  
+ p. 54 et seqq.
+G4-4Primary brands, products, servicesSection 1 Structure /  
+ p. 54 et seqq.
+G4-5Headquarter of the organizationSection 1 Structure /  
+ p. 54 et seqq.
+G4-6Countries of  
+operationSection 1 Structure /  
+ p. 54 et seqq.
+G4-7Ownership and  legal formSection 1 Structure /  
+ p. 54 et seqq.
+G4-8 Markets servedSection 1 Structure /  
+ p. 54 et seqq. 
+G4-9Scale of the  
+organizationSection 1 Structure /  
+ p. 54 et seqq.;  
+section 13 Business 
+Development / p. 76 
+et seqq.;  
+section 17 Net  
+Assets / p. 89 et  
+seqq.;  
+section 5 Employ-  
+ees / p. 62 et seqq.
+G4-10 WorkforceSection 5 Employ-ees / p. 62 et seqq.Section 5 Employ-ees / p. 18 et seqq.
+G4-11Collective bargai-ning agreementsSection 5 Employ-ees / p. 21
+G4-12 Supply chainSection 6 Procure -
+ment / p. 65 et seqq.Section 6 Procure -
+ment / p. 22
+G4-13Significant changes 
+in the organization 
+during the reporting 
+periodSection 1 Structure /  
+ p. 54 et seqq.   
+Section 7  
+Production / p. 24
+
+Section: GRI, Score: 0.5961774587631226
+Text: 40
+GRI Supplementary Report 2016
+ 14.  GRI Index
+ 14.1  General Standard Disclosures
+Gene Ral StanD aRD DISCloSuRe S
+General Standard 
+DisclosuresStandard  Disclosure titleSection / page  
+in the Covestro 
+annual Report 
+2016Section / page in the Covestro GRI 
+Supplementary 
+Report 2016 Comment
+G4-14Precautionary  approachSection 9 Product 
+Stewardship /  
+p. 69 et seqq.
+G4-15Endorsement of  externally developed standards, principles 
+or initiativesSection 3  
+Management /  
+p. 58 et seqq.
+G4-16 MembershipsSection 3 Sustain-
+ability Management /  
+ p. 8 et seqq.
+IDENTIFIED MATERIAL ASPECTS AND BOUNDARIES
+G4-17Organizational 
+ entitiesAnnex  / p. 138 et 
+seqq.
+G4-18Process for defining the report content 
+and the Aspect 
+BoundariesSection 3 Sustain-
+ability Management /  
+p. 11 et seqq.
+G4-19 Material AspectsSection 3  
+Management / 
+p. 58 et seqq.Section 3 Sustain-
+ability Management /  
+p. 11 et seqq.
+G4-20Aspect Boundaries 
+within the  
+organizationSection 3 Sustain-
+ability Management /  
+p. 11 et seqq.
+G4-21Aspect Boundaries 
+outside the  
+organizationSection 3 Sustain-
+ability Management /  
+p. 11 et seqq.
+G4-22 RestatementsSection 3 Sustain-
+ability Management /  
+p. 11
+G4-23Significant changes 
+in AspectsSection 3 Sustain-
+ability Management /  
+p. 11
+STAKEHOLDER ENGAGEMENT
+G4-24Relevant 
+ stakeholder groupsSection 3  
+Management / 
+p. 58 et seqq.Section 3 Sustain-
+ability Management /  
+p. 7 et seqq.
+G4-25Identification  
+and selection of 
+stakeholdersSection 3 Sustain-
+ability Management /  
+p. 7
+G4-26Approach to  
+stakeholder  
+engagementSection 3 Sustain-
+ability Management /  
+p. 7
+G4-27Key topics and  concerns raisedSection 3 Sustain-
+ability Management /  
+p. 7 et seqq.
+REPORT PROFILE
+G4-28 Reporting periodSection 1 Reporting 
+Structure / p. 4
+G4-29 Previous reportSection 1 Reporting 
+Structure / p. 4
+G4-30 Reporting cycleSection 1 Reporting Structure / p. 4
+G4-31 Contact detailsPublishing  
+Information / p. 217Publishing  
+Information / p. 52
+
+Section: GRI, Score: 0.5643936395645142
+Text: 41
+GRI Supplementary Report 2016
+ 14.  GRI Index
+ 14.1  General Standard Disclosures
+Gene Ral StanD aRD DISCloSuRe S
+General Standard 
+DisclosuresStandard  Disclosure titleSection / page  
+in the Covestro 
+annual Report 
+2016Section / page in the Covestro GRI 
+Supplementary 
+Report 2016 Comment
+G4-32“In accordance”  
+option, GRI Content 
+Index, Reference  to the External  
+Assurance ReportReport of  Independent  
+Auditors of  the Consolidated  
+Financial  
+Statements /  
+p. 201 et seqq.Section 1 Reporting Structure / p. 4;  
+Independent Practitioner’s  
+Limited Assurance 
+Report /  
+p. 50 et seqq.
+G4-33 External assuranceReport of  Independent  
+Auditors of the Consolidated  
+Financial  
+Statements /  p. 201 et seqq.Section 1 Reporting Structure / p. 4;  
+Independent Practitioner’s  
+Limited Assurance 
+Report /  
+p. 50 et seqq.
+GOVERNANCE
+G4-34Governance 
+structure Section 23  Governance /  
+p. 116 et seqq;  
+section 3  
+Management / 
+p. 58 et seqq.
+G4-35Process for  delegating authoritySection 23  Governance /  
+p. 116 et seqq;  
+section 3  
+Management / 
+p. 58 et seqq.
+G4-36Executive-level responsibility Section 23  Governance /  
+p. 116 et seqq;  
+section 3  
+Management / 
+p. 58 et seqq.
+G4-38Composition of 
+highest governance 
+bodySection 23  
+Governance /  
+p. 116 et seqq.
+G4-39Chair of highest 
+governance bodySection 23  Governance /  p. 116 et seqq.
+G4-40Nomination and 
+ selection proces -
+ses for highest governance bodySection 23  
+Governance /  
+p. 116 et seqq.
+G4-41 Conflicts of interestSection 23  
+Governance /  
+p. 116 et seqq.
+G4-42Role of highest 
+governance body in 
+development and 
+approval of the 
+organization's 
+strategy Section 23  
+Governance /  
+p. 116 et seqq.
+G4-48Highest position that approves the sustainability report CEO
+G4-51Remuneration  
+policies for highest governance body 
+and senior 
+executives Section 25  Compensation  
+Report /  p.121 et seqq.;  
+section 5 Employ-
+ees / p. 62 et seqq.
+
+Section: GRI, Score: 0.515823483467102
+Text: 42
+GRI Supplementary Report 2016
+ 14.  GRI Index
+ 14.2  Specific Standard Disclosures
+Gene Ral StanD aRD DISCloSuRe S
+General Standard 
+DisclosuresStandard  Disclosure titleSection / page  
+in the Covestro 
+annual Report 
+2016Section / page in the Covestro GRI 
+Supplementary 
+Report 2016 Comment
+ETHICS AND INTEGRITY
+G4-56Codes of conduct 
+and codes of ethicsSection 2 Strategy / p. 56 et seqq.; 
+section 3 Manage -
+ment / p. 58 et seqq.;   
+section 23  Governance /  
+p. 116 et seqq.;  
+section 24  
+Compliance / p. 120Section 2  Strategy / p. 5;  
+section 13  Compliance / p. 38
+G4-57Mechanisms for 
+seeking advice on 
+ethical and lawful 
+behaviorSection 24  Compliance / p. 120Section 13  Compliance / p. 38
+G4-58Internal and external 
+mechanisms for  
+reporting concerns 
+about unethical or 
+unlawful behaviorSection 24  Compliance / p. 120Section 13  Compliance / p. 38
+SpeCIfIC StanD aRD DISCloSuRe S
+Specific Standard 
+DisclosuresStandard  
+Disclosure  titleSection / page  
+in the Covestro annual Report 
+2016Section / page in the Covestro GRI 
+Supplementary 
+Report 2016 Comment
+CATEGORY: ECONOMIC
+MATERIAL ASPECT: ECONOMIC PERFORMANCE
+G4-DMADisclosure on 
+management  approach Section 3  Sustainability  
+Management / p. 16
+G4-EC1Direct economic 
+value generated 
+and distributedSection 3  
+Sustainability  
+Management / p. 16
+MATERIAL ASPECT: PROCUREMENT PRACTICES
+G4-DMADisclosure on 
+m anagement 
+approach Section 6  
+Procurement  /  
+p. 65 et seqq.Section 3  Sustainability  
+Management / p. 15
+G4-EC9Proportion of  spending on local 
+suppliers at 
+significant  locations 
+of operation Section 6  Procurement
+ / p. 22
+CATEGORY: ENVIRONMENTAL
+MATERIAL ASPECT: ENERGY
+G4-DMADisclosure on 
+ management 
+approach Section 2 Strategy / p. 56 et seqq.;  
+section 3 Manage -
+ment / p. 58 et seqq.;  
+section 11 Envi-ronmental Protec -
+tion / p. 73 et seqq.;  
+section 21  
+Opportunities and 
+Risks Report /  
+p. 99 et seqq. Section 3  Sustainability  
+Management
+ /  
+p. 13;  section 11  
+Environmental  
+Protection
+ /  
+p. 30 et seqq.14.2  Specific Standard Disclosures
+
+Section: GRI, Score: 0.6209812164306641
+Text: 44
+GRI Supplementary Report 2016
+ 14.  GRI Index
+ 14.2  Specific Standard Disclosures
+SpeCIfIC StanD aRD DISCloSuRe S
+Specific Standard 
+DisclosuresStandard  
+Disclosure  titleSection / page  
+in the Covestro 
+annual Report 
+2016Section / page in the Covestro GRI 
+Supplementary 
+Report 2016 Comment
+MATERIAL ASPECT: EFFLUENTS AND WASTE
+G4-DMADisclosure on 
+ management 
+approach Section 3 Manage -
+ment / p. 58 et seqq.; 
+section 11  
+Environmental  
+Protection /  p. 73 et seqq.;  
+section 21  
+Opportunities  
+and Risks Report /  p. 99 et seqq.Section 3  Sustainability  
+Management
+ /  
+p. 14
+G4-EN23T otal weight of 
+ waste by type and 
+disposal methodSection 11  
+Environmental  
+Protection  / p. 35
+MATERIAL ASPECT: COMPLIANCE
+G4-DMADisclosure on 
+ management 
+ approachSection 11  
+Environmental  
+Protection /  p. 73 et seqq.; section 24  
+Compliance / p. 120Section 13  Compliance
+ / p. 38
+G4-EN29Monetary value of significant fines and 
+total number of 
+non-monetary 
+sanctions for non-compliance with 
+environmental laws 
+and regulations (–) (–)In 2016, no significant  administrative or court-ordered 
+sanctions (fines, non-monetary 
+sanctions) for non-compliance with environmental laws and  
+regulations were reported 
+through internal reporting.
+MATERIAL ASPECT: TRANSPORT
+G4-DMADisclosure on 
+management  
+approach Section 10 Safety /  p. 71 et seqq.Section 10 Safety /  p. 28
+G4-EN30Significant environ-
+mental impacts of 
+transporting  
+products and other 
+goods and materials 
+for the organization’s 
+operations, and 
+transporting  
+members of the workforceSection 10 Safety /  p. 71 et seqq.Section 10 Safety /  p. 28
+MATERIAL ASPECT: SUPPLIER ENVIRONMENTAL ASSESSMENT
+G4-DMADisclosure on 
+ management 
+approach Section 6  Procurement /  p. 65 et seqq.;  
+section 21  
+Opportunities  
+and Risks Report /  p. 99 et seqq.Section 6  
+Procurement /  
+p. 22
+G4-EN33Significant actual  and potential  negative  
+environmental  
+impacts in the  
+ supply chain  
+and  actions takenSection 6  Procurement /  
+p. 65 et seqq.Section 6  
+Procurement
+ /  
+p. 22 et seqq.
+
+Section: GRI, Score: 0.6350050568580627
+Text: 47
+GRI Supplementary Report 2016
+ 14.  GRI Index
+ 14.2  Specific Standard Disclosures
+SpeCIfIC StanD aRD DISCloSuRe S
+Specific Standard 
+DisclosuresStandard  
+Disclosure  titleSection / page  
+in the Covestro 
+annual Report 
+2016Section / page in the Covestro GRI 
+Supplementary 
+Report 2016 Comment
+MATERIAL ASPECT: SUPPLIER HUMAN RIGHTS ASSESSMENT
+G4-DMADisclosure on 
+management  approach Section 6  Procurement /  p. 65 et seqq.Section 3  Sustainability  
+Management / p. 15;  
+section 6  Procurement / p. 22
+G4-HR11Significant actual 
+and potential  
+negative human rights impacts in 
+the supply chain  
+and actions takenSection 6  Procurement /  
+p. 65 et seqq.;  
+section 21  Opportunities 
+and Risks Report /  
+p. 99 et seqq.Section 6  
+Procurement /  
+p. 22 et seqq.
+MATERIAL ASPECT: HUMAN RIGHTS GRIEVANCE MECHANISMS
+G4-DMADisclosure on 
+management  
+approach Section 5 Employ-
+ees / p. 62 et seqq.; 
+section 6  
+Procurement /  
+p. 65 et seqq.;  
+section 24  
+Compliance / p. 120Section 13 
+ Compliance /  
+p. 38
+G4-HR12Number of  
+grievances about 
+human rights  
+impacts filed, 
+addressed, and  
+resolved through formal grievance 
+mechanisms (–) (–)For reasons of confidentiality, 
+we do not make statements concerning the type and scope 
+of the grievances reported. 
+SUB-CATEGORY: SOCIETY
+MATERIAL ASPECT: ANTI-CORRUPTION
+G4-DMADisclosure on 
+management  
+approach Section 24 
+ Compliance /  
+p. 120Section 13 
+ Compliance /  
+p. 38
+G4-SO3T otal number and percentage of  
+operations assessed for risks related  
+to corruption and  
+the significant risks 
+identifiedSection 13 
+ Compliance /  
+p. 38
+MATERIAL ASPECT: ANTI-COMPETITIVE BEHAVIOR
+G4-DMADisclosure on 
+ management 
+approach Section 24 
+ Compliance /  
+p. 120Section 13 
+ Compliance /  
+p. 38
+G4-SO7T otal number of  legal actions for  anti-competitive  
+behavior, anti-trust, and monopoly 
+practices and their 
+outcomes (–) (–)No actions were reported 
+through internal reporting in 
+2016. 
+MATERIAL ASPECT: COMPLIANCE
+G4-DMADisclosure on 
+management  
+approach Section 24 
+ Compliance /  
+p. 120Section 13 
+ Compliance /  
+p. 38
+
+Section: GRI, Score: 0.530016303062439
+Text: 48
+GRI Supplementary Report 2016
+ 14.  GRI Index
+SpeCIfIC StanD aRD DISCloSuRe S
+Specific Standard 
+DisclosuresStandard  
+Disclosure  titleSection / page  
+in the Covestro 
+annual Report 
+2016Section / page in the Covestro GRI 
+Supplementary 
+Report 2016 Comment
+G4-SO8Monetary value of  
+significant fines  
+and total number 
+of non-monetary 
+sanctions for non-compliance with 
+laws and regulations (–) (–)In 2016, no significant  administrative or court-ordered 
+sanctions (fines, non-monetary 
+sanctions) for non-compliance 
+with laws and  regulations  
+were reported through internal 
+reporting.
+MATERIAL ASPECT: SUPPLIER ASSESSMENT FOR IMPACTS ON SOCIETY 
+G4-DMADisclosure on 
+management
+  
+approach Section 6  
+Procurement /  
+p. 65 et seqq.;  
+section 21  
+Opportunities  
+and Risks Report /  
+p. 99 et seqq.Section 3  Sustainability  
+Management /  p. 15;  
+section 6  
+Procurement /  p. 22
+G4-SO10Significant actual and potential  
+negative impacts  
+on society in the 
+supply chain and  
+actions takenSection 6  
+Procurement /  
+p. 65 et seqq.Section 6  
+Procurement /  
+p. 22 et seqq.
+SUB-CATEGORY: PRODUCT RESPONSIBILITY
+MATERIAL ASPECT: CUSTOMER HEALTH AND SAFETY
+G4-DMADisclosure on 
+managemen t approach Section 9 Product Stewardship /  
+p. 69 et seqq.;  
+section 21  
+Opportunities  
+and Risks Report /  p. 99 et seqq.;  
+section 24  Compliance / p. 120Section 3  
+Sustainability  
+Management /  p. 12;  
+section 9 Product 
+Stewardship / p. 26; 
+section 13  Compliance / p. 38
+G4-PR2T otal number of 
+incidents of  
+non-compliance  
+with regulations and  voluntary codes concerning the 
+health and safety 
+impacts of products 
+and services during 
+their life cycle, by  
+type of outcomesSection 9 Product Stewardship / p. 26In 2016, no significant incidents 
+were reported through internal 
+reporting. 
+MATERIAL ASPECT: PRODUCT AND SERVICE LABELING
+G4-DMADisclosure on 
+management  approach Section 9 Product Stewardship /  p. 69 et seqq.Section 3  
+Sustainability  
+Management /  p. 12;  
+section 9 Product Stewardship / p. 26 14.2  Specific Standard Disclosures
+
