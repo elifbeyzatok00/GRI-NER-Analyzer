@@ -1,6 +1,482 @@
 
 
-===== GRI2.pdf =====
+===== 350131_1.pdf =====
+Section: GRI, Score: 0.8383675217628479
+Text: GRI SupplementaR y RepoR t 
+2016Supplementary sustainability information and GRI-index  
+as part of the yearly reporting  of Covestro AG
+
+Section: GRI, Score: 0.5077126622200012
+Text: 3
+GRI Supplementary Report 2016Table of Content
+ 
+table of Content
+ 1. Reporting Structure 4
+  1.1  Reporting Principles  4
+  1.2  Data collection for Non-financial Metrics 4
+  1.3  External Assurance 4
+ 2. Strategy  5
+  2.1  Company Guidelines 5
+  2.2  Sustainability Goals 5
+ 3. Sustainability management 7
+  3.1   Stakeholder Dialog 7
+  3.2   Material Sustainability Issues  11
+  3.3   Standards and Certifications  15
+  3.4   Value Creation  16
+ 4. Innovation  17
+ 5. employees  18
+  5.1  Strategy and Processes  18
+  5.2  Employee Metrics 18
+ 6. p rocurement 22
+  6.1  Procurement of Key Products 22
+  6.2  Sustainability in the Supply Chain 22
+  6.3  Conflict Minerals 23
+ 7. p roduction  24
+  7.1  Production Sites 24  7.2  Investments 24
+  7.3  Quality Management 24
+ 8. Distribution and l ogistics  25
+  8.1  Distribution 25
+  8.2  T ransportation and Packaging 25
+ 9. p roduct Stewardship  26
+10. Safety  27
+  10.1  Occupational Health and Safety 27
+  10.2  Safe Production 28
+  10.3  Environmental and T ransportation Safety 28
+11. environmental p rotection  30
+  11.1  Energy Consumption 30
+  11.2  Air Emissions 32
+  11.3  Water Consumption and Usage 33
+  11.4  Waste and Recycling 35
+12. Corporate Citizenship   36
+13. Compliance  38
+14. GRI Index   39
+  14.1  General Standard Disclosures 39
+  14.2  Specific Standard Disclosures  42
+Independent p ractitioner’s  
+limited a ssurance Report 50
+publishing Information 52
+About this Report
+In keeping with the General Equal Treatment Act
+We consider equal treatment to be important. T o ensure greater legibility, this Report abstains from the 
+use of gender-specific wording. The corresponding terms shall apply equally to both genders accor -
+ding to the principle of equal treatment.
+ 
+Rounding principles As the indicators in this Report are stated in accordance with commercial rounding principles, totals 
+and percentages may not always be exact.
+Language versions 
+This GRI Supplementary Report is available in both German and English. In case of discrepancies, only the German version shall be binding.
+ 
+Key
+ References to online amendments
+ References within the GRI Supplementary Report and to the Annual Report
+√ Statements were audited by an independent auditor
+ 
+This GRI Supplementary Report was published on February 20, 2017.
+
+Section: GRI, Score: 0.6373944282531738
+Text: 5
+GRI Supplementary Report 20162.  Strategy
+2.1  Company Guidelines
+Sustainability management at Covestro contributes to the development of customer-focused products 
+as well as to the protection of the environment through resource-efficient and low-emissions production, 
+and creates economic value. Specific requirements on important sustainability issues are defined in our 
+internal regulations and guidelines in order to advance the sustainability aspects of our strategy.
+•  Creating value: Ongoing value creation is the primary objective of Covestro. We develop solutions 
+that create value for customers, society and the environment, as well as for employees and investors.
+•  Sustainability: Our aim is to align economic targets with environmental and social goals. Ensuring that 
+our business activities embrace sustainability reflects our purpose “T o make the world a brighter place.”
+•  Innovation: Innovation is necessary for mastering the global challenges of our time and for creating 
+value in the long term. As a result, we develop new products, applications and technologies that focus 
+on sustainable development.
+•  People: Covestro’s success is based on the strong commitment of our employees. We want to  
+motivate and offer them an attractive workplace. 
+•  HSEQ (Health, Safety, Environment and Quality): Occupational health, safety, environmental protec -
+tion, energy efficiency and quality management are key factors in achieving our aims. Continuous 
+improvement is the primary goal of our Integrated Management System.
+•  Compliance: Covestro’s corporate conduct is characterized by a sense of responsibility as well as 
+ethical principles. Strict compliance with all legal requirements and voluntary pledges by Covestro is therefore considered to be of the utmost importance.
+Specific committees have been appointed at Covestro to define and manage important sustainability issues. These include the development and implementation of targets and action programs. 
+2.2  Sustainability Goals
+Covestro fully supports the United Nations’ sustainability goals (SDGs). We have analyzed the influence 
+that our activities, products, initiatives and our engagement can have on these goals. The SDGs and the 
+findings of the analysis are incorporated into our sustainability agenda. 
+In 2016, Covestro set five ambitious goals to be reached by 2025, which are aligned with the SDGs. We 
+will report regularly on the progress made.
+In addition, occupational health and safety, energy efficiency and environmental protection goals have 
+been defined as part of our Integrated Management System.2.  Strategy2.1  Company Guidelines
+For further informa-
+tion, see our Annual Report, Combined Management Report, section 2 "Strategy" The new target pro -
+gram is presented 
+on our website www.covestro.com/de/sustainability/targets/target-overview
+
+Section: GRI, Score: 0.5847547054290771
+Text: 7
+GRI Supplementary Report 20163.1  Stakeholder Dialog 3.  Sustainability Management
+3.  Sustainability Management
+3.1  Stakeholder Dialog 
+We are committed to active, open and honest dialog with our stakeholders – whether in the immediate 
+vicinity of our sites or at national or global level. Our main stakeholder groups include Covestro’s partners 
+as well as financial market participants, regulators and social interest groups. Addressing their interests 
+is very important in respect of our strategy development, our decision-making and our risk management 
+activities. For further informa-
+tion, see our Annual Report, Combined Management Re -
+port, section 21 "Opportunities and Risks Report" 
+We adopt an open communication approach. Depending on specific issues and relevance, our various 
+departments identify and prioritize key stakeholders and appropriate formats to address them. 
+Partners 
+Collaboration with customers, employees and suppliers is a prerequisite for the long-term success of 
+our company. We also value the cooperation with – and the active participation in – industry-relevant 
+associations and scientific institutions. We are in frequent contact with all of these groups, both at senior 
+management level and through various departments. 
+In addition, Covestro participates in a number of international industry trade shows. In the year under 
+review, these included major events such as K 2016, Chinaplast, the American Institute of Architects 
+(AIA) National Convention, Roof India, Light+Building, and JEC World Composites.  Stakeholder Dialog
+Partners
+RegulatorsFinancial m
+arket  participants
+Social interest groups• Customer surveys, specialist 
+forums and conferences
+• Dialog with employees and la-
+bor representatives
+• Supplier days
+• Research projects
+• Financial  
+reporting
+• Annual Stock -
+holders' Meeting
+• Investor events 
+and telephone conferences
+• Expert dialog, e.g. regarding  energy and environmental 
+ policies
+• Exchange at specialist work -
+shops and conferences
+• Site visits• Exchange via various  
+media
+• Press conferences  
+and releases
+• Issue-related  
+dialog, e.g. via  
+community offices
+§
+
+Section: GRI, Score: 0.5045586228370667
+Text: 10
+GRI Supplementary Report 20163.1  Stakeholder Dialog 3.  Sustainability Management
+Regulators
+We maintain a regular dialog with authorities, ministries, politicians and key stakeholders of regulatory 
+affairs at the local, regional, national and international level. This dialog takes the form of contributions to 
+public consultations, involvement in specialist workshops, association activities and specific discussions 
+with policymakers. The focus of Covestro’s representation of its public policy interests in 2016 was on 
+the areas of chemicals and energy policy, low-carbon economy, circular economy, transportation and 
+environmental and climate protection. Dr. Klaus Schäfer, the Board of Management member responsible 
+for Production and T echnology, participated in a symposium on EU energy policy held in Brussels  
+(Belgium) by the Economic Council of the CDU, the co-governing party in Germany. Attended by  
+40 selected European participants from the fields of politics, business and science, key issues concern -
+ing Europe’s energy future were considered from various angles and corresponding plans developed in 
+subsequent workshops. Covestro also participates in the chemical industry’s dialog with the German 
+Federal Ministry for Economic Affairs and Energy. In addition, members of the German Bundestag  
+visited Covestro’s sites and plants several times. 
+In its Code of Conduct for Responsible Lobbying, Covestro has created clear and binding rules for its 
+involvement in the political sphere. The Code is applicable across the Group and requires transparency 
+and openness in working with representatives of political institutions. It stipulates that Covestro shall 
+make no direct donations as a corporation to political parties, politicians, or candidates for political office. 
+In line with applicable law there, a political action committee (PAC) was set up in the United States that 
+is available only to Covestro employees, but remains completely independent of the Group. This PAC 
+manages individual voluntary donations by employees to support political candidates, ballot initiatives 
+or legislative decisions in the United States. In addition to having an internal code, Covestro signed up on a voluntary basis to the European transparency register. The purpose of the register is to record and keep a check on lobbying activities at the EU level, requiring the disclosure of various company-specific information including, for example, the interests of related activities and the number of staff involved in 
+lobbying work at Covestro. Detailed regulations also apply to lobbying work in the United States.  
+These include, for instance, a duty to report all political interactions, on a quarterly basis, which  
+Covestro meets in full.
+Societal stakeholders
+The public, neighbors and non-governmental organizations
+Our sites around the world consider the effect of their business activity on the neighborhood and society 
+in general and take account of this in their operational and strategic decisions. This includes an active, open and honest dialog allowing Covestro to be recognized as a reliable and trustworthy partner that is committed to its social responsibility. Dialog with neighbors, the public and non-governmental organi-zations (NGOs) is initiated on a case-by-case basis. When capital investment projects are undertaken, the neighborhood is proactively informed and involved. In the United States, dialog takes place through 
+Community Advisory Panels (CAPs). These panels organize regular meetings with local government and/
+or neighborhood representatives, in order to provide information on current issues. In Germany, dialog 
+with neighbors is conducted through the Chempark neighborhood offices. Especially when new facilities 
+begin operation, we reach out for direct dialog with stakeholder groups in the community. Numerous 
+guests from the community and the business, science and political arenas attended the opening of our
+
+Section: GRI, Score: 0.5339637994766235
+Text: 11
+GRI Supplementary Report 20163.2  Material Sustainability Issues3.  Sustainability Management
+Media
+An important component of our stakeholder dialog is contact with the media. The channels for our 
+media work include press releases, press conferences, background discussions, individual interviews 
+and journalist visits as well as social media channels such as LinkedIn, Twitter, Facebook and Y ouT ube. 
+We also continually inform the media and all other stakeholders about current developments on our 
+website. In addition to press releases, we publish financial information, such as annual and quarterly 
+reports, as well as presentations and speeches from conferences and meetings. 
+3.2  Material Sustainability Issues
+As a corporation, Covestro is part of society and has a responsibility with regard to current challenges 
+such as climate change, resource scarcity, health and poverty. T o the extent that we can exert a significant 
+influence, key sustainability issues were incorporated into the Group’s strategy and are therefore the 
+foundation of many of our activities. This relates to our products and processes as well as our conduct 
+with respect to stakeholders. 
+Each year, we analyze the interests, expectations and requirements of our key stakeholders across the 
+Group, which are then reflected in the major sustainability issues we define. This process is known as a 
+materiality analysis and is used to document and evaluate how stakeholders inside and outside the 
+company assess the importance of sustainability issues for Covestro. The issues identified as material 
+give us direction for our company’s business positioning, goals and strategy development. The starting 
+point for the current materiality matrix is based on the findings from the 2015 materiality analysis. We 
+re-evaluated these taking into account current trends and developments. In addition, our new sustain-
+ability goals for 2025 were also incorporated. For each of these elements, a clear definition was developed. 
+In addition to the sustainability issues themselves, we included “global challenges” that align with the 
+UN’s sustainable development goals (SDGs). These are influenced by Covestro directly through our 
+business activities or indirectly through our other commitments. 
+For additional  
+information, see  www.un.org/sustain abledevelopment
+Direct and indirect impact Direct impact Indirect impact
+un's Sustainable Development Goals with Covestro's Impact
+
+Section: GRI, Score: 0.5826405882835388
+Text: 16
+GRI Supplementary Report 20163.4  Value Creation3.  Sustainability Management
+3.4  Value Creation
+Covestro aims to create sustainable value for all stakeholder groups in the value chain.
+Our value added calculation presents the value added we have generated as the company’s contribution 
+to the gross national product of the individual country, and shows its distribution during the fiscal year. 
+We define value added as the company’s business performance minus its outlays, such as material 
+expenses, other expenses or depreciation, amortization and impairment losses. In 2016, the Covestro 
+Group’s business performance amounted to €12.0 billion. Value added came to €3.1 billion. The state -
+ment of allocation shows that the majority of it benefited the employees, who received €1.9 billion in the 
+form of personnel expenses. The stockholders accounted for €0.3 billion of value added, lenders for 
+€0.1 billion and the government for €0.4 billion.
+Group value added 
+1  Covestro AG dividend proposal for the fiscal year
+2  T otal operating performance = sales + other operating income + financial income / equity-method income (loss)€0.7 billion 
+Depreciation,  
+amortization,  
+impairment losses
+€8.2 billion
+Material costs /  
+Other expenses €1.9 billion (61%)
+Employees
+€0.4 billion (13%)
+T axes
+€0.1 billion (3%)
+Lenders
+€0.3 billion (10%)
+Stockholders1
+€0.4 billion (13%)
+Reserves/Others€12.0 billion
+T otal operating 
+performance2€3.1 billion
+Value added
+
+Section: GRI, Score: 0.5376468300819397
+Text: In order to fully leverage the creativity and wealth of ideas in the company, we promote networking and 
+the exchange of information among employees in as many areas as possible. A company-wide idea 
+management platform was introduced for this purpose in 2016. Moreover, we set up the Idea.Garden,  
+a place for casual meetings and discussions among employees, at our company headquarters in 
+Leverkusen. It is also open to guests. For instance, a workshop was held for design students in which 
+their task was to design functional fashion for physically disabled people from Covestro materials.See section 11  
+"Environmental  
+Protection"
+
+Section: GRI, Score: 0.566299319267273
+Text: 18
+GRI Supplementary Report 2016
+ 5.  Employees
+employees1 by a ge Group and Gender as of December 31, 2016  √
+age group Women men totalof which board  
+of management 
+< 30 years 490 1,244 1,733 0
+30 to 49 years 2,256 6,468 8,724 2
+≥ 50 years 768 4,354 5,121 2
+total 3,514 12,065 15,579
+of which board  
+of management 0 4
+1    The number of employees on either permanent or temporary contracts is stated in full-time equivalents (FTE). Part-time employees are  
+included on a pro-rated basis in line with their contractual working hours.
+√  Audited as described in the independent assurance report on p. 50 et seqq.5.  Employees
+5.1  Strategy and Processes
+The Human Resources (HR) strategy is derived from Covestro’s company strategy. The HR goals follow 
+the corporate goals as well as the corporate values. The overarching goals are set by the Head of HR 
+in conjunction with Covestro’s CEO. Based on these, three to five supporting goals related to the in-dividual tasks are set by each HR department. They are agreed upon with the next level(s) of manage -
+ment and documented. Monitoring, instructions and reviews, as well as potentially necessary changes, 
+take place in regular meetings between supervisor and employee. 
+5.2  Employee Metrics
+Diversity and internationality
+As of December 31, 2016, Covestro had 15,579 employees worldwide, of which 77% were male and 23% were female.√  Their average age was 43.4 years.√ 
+ The percentage of temporary employees at our company amounts to 1.6%.√
+Out of all permanent employees, 13.3% worldwide work part-time.√For employees by 
+function (produc -
+tion, sales, R&D, ad -
+ministration, emplo -
+yees in vocational training), see our Annual Report, 
+Combined Manage -
+ment Report, sec -
+tion 5 "Employees" 5.1  Strategy and Processes
+employees1 by employment Status and Gender in 2016  √
+Women men total
+Permanent employees 3,443 11,889 15,331
+T emporary employees 71 176 247
+total 3,514 12,065 15,579
+1   The number of employees on either permanent or temporary contracts is stated in full-time equivalents (FTE). Part-time employees are  
+included on a pro-rated basis in line with their contractual working hours.
+√  Audited as described in the independent assurance report on p. 50 et seqq.
+Percentage of Permanent Employees Working Part-time by Gender in 2016√
+Women men total
+total 4.0% 9.3% 13.3%
+√  Audited as described in the independent assurance report on p. 50 et seqq.
+
+Section: GRI, Score: 0.519115149974823
+Text: 20
+GRI Supplementary Report 2016
+ 5.  Employees
+Attracting qualified employees and professional devewwwwlopment
+In the reporting year, 1,070 new employees were hired, the majority in EMLA.√ 
+T urnover rates varied widely in some cases depending on the region and age group. This is primarily 
+affected by cultural factors, though we fall below local benchmarks in all regions.
+Covestro promotes young talent by offering professional internships in addition to vocational training 
+and trainee programs. Worldwide, the company had 435 interns in 2016.√  In the previous year, this  
+number was around 346. 5.2  Employee Metrics
+new Hires1 by a ge Group, Gender and Region in 2016  √
+apa C emla nafta total
+Women 88 170 78 336
+< 30 years 45 90 52 187
+30 to 49 years 43 72 20 135
+≥ 50 years 0 8 6 14
+men 136 440 158 734
+< 30 years 70 259 91 420
+30 bis 49 years 64 148 59 271
+≥ 50 years 2 33 8 43
+total 224 610 236 1,070
+1 Employee figures stated in full-time equivalents (FTE).
+√  Audited as described in the independent assurance report on p. 50 et seqq.
+employee f luctuation1 by a ge Group, Gender and Region in 2016 (%)  √
+apa C emla nafta total2
+Women 11.8% 5.0% 10.1% 8.2% 
+< 30 years 14.1% 6.5% 41.2% 14.5% 
+30 to 49 years 11.1% 4.7% 4.3% 7.3% 
+≥ 50 years 13.4% 4.5% 5.2% 5.2% 
+men 10.8% 4.3% 6.9% 6.3% 
+< 30 years 11.7% 5.4% 26.6% 10.0% 
+30 to 49 years 9.9% 2.8% 4.6% 5.5% 
+≥ 50 years 16.5% 5.8% 5.2% 6.3% 
+total 11.1% 4.4% 7.6% 6.8% 
+1  The fluctuation rate is calculated using the ratio of the number of employees stated in full-time equivalents (FTE).
+2  Includes all employer- and employee-driven terminations, retirements and deaths.
+√  Audited as described in the independent assurance report on p. 50 et seqq.
+
+Section: GRI, Score: 0.6035887598991394
+Text: 26
+GRI Supplementary Report 2016
+ 9.  Product Stewardship
+9.  Product Stewardship
+Covestro has a systematic approach including reporting systems and global guidelines for compliance 
+control, incident notification and reporting that includes product stewardship aspects. Any incidents 
+are tracked in a global information system and frequently evaluated. The systematic approach includes 
+root cause analysis for corrective actions in order to continuously improve our product stewardship 
+performance. 
+Our product portfolio does not contain any products that are banned by UN listing or through interna-
+tional conventions. In 2016 no material case of incident of non-compliance with regulations and volun-tary codes concerning the health and safety impacts of products and services has been recorded or is 
+known to us, nor has any material case of incident of non-compliance with regulations and voluntary 
+codes concerning product and service information and labeling occurred in 2016.√ 
+Our own system to create safety information covers mandatory information on content, safe use of the 
+product, as well as relevant disposal information. We apply systematic evaluations for new products and 
+applications and systematically utilize IT tools to support this process.Animal studies are essential to assess the safety of our products, especially to humans, but also to the 
+environment. For these studies, Covestro respects the 3Rs principle. The aim of the 3Rs principle is to
+reduce the use of laboratory animals, replace them through other methods, and refine and improve the
+test procedures wherever possible. Covestro only contacts and selects research institutes and organi -
+zations that meet our animal welfare principles. Compliance with our animal welfare requirements is 
+regularly monitored, and information provided in supplier self-evaluations is verified through on-site 
+audits. For example, this is valid with regard to the registration processes within the European Union, the 
+United States and China, which prescribe results from toxicological and ecotoxicological studies by law.See section 13 
+“Compliance”
+
+Section: GRI, Score: 0.5489669442176819
+Text: 29
+GRI Supplementary Report 201610.  Safety
+10.3  Environmental and T ransportation Safety
+In 2016, we carried out a campaign in Europe to focus on near-misses during unloading operations in 
+order to improve safety in ground transportation. Our freight forwarders were challenged to inform their 
+drivers about potential hazards and encourage them to report near-misses. The campaign was an off -
+shoot of our 2015 fuel depot assessments performed at and with our customers. 
+Covestro is active worldwide in key committees and associations focused on transportation and distri-
+bution safety, and campaigns for industry-wide safety standards for product transportation. 
+In 2016, Covestro registered nearly 900,000 loads transported via road, rail, water and air.√  Seven 
+transportation incidents were reported and one environmental incident.√  The following is a breakdown 
+of transportation incidents by mode of transportation:
+At our production facility in Antwerp (Belgium) a leak occurred in a sealing flange on July 28, 2016, when 
+a pump was restarted after maintenance. This resulted in the release of ten cubic meters of chlorobenzene, 
+about two cubic meters of which were absorbed into the soil. The contaminated soil was removed and 
+disposed of through incineration. In order to avoid such incidents in the future, various preventive  
+measures were taken, such as special leakage testing. transportation Incidents by mode of t ransportation
+2014 2015 2016  √
+Road 11 11 7
+Rail 1 1 0
+Inland waterways 0 0 0
+Sea 0 0 0
+Air 0 0 0
+Pipeline 0 0 0
+total 12 12 7
+√  Audited as described in the independent assurance report on p. 50 et seqq.
+
+Section: GRI, Score: 0.5234479308128357
+Text: 30
+GRI Supplementary Report 201611.1  Energy Consumption11.  Environmental Protection
+11.  Environmental Protection
+We aim to use all natural resources as efficiently as possible while reducing emissions to a minimum. 
+The management tool we use for this purpose is our continuously updated Integrated Management 
+System. We also use sophisticated data management systems to identify and realize potential efficien -
+cy improvements and reduce the environmental effects of our production activities as much  
+as possible.
+Covestro’s goal is to halve direct and indirect emissions of greenhouse gases per metric ton of product 
+based on 2005 levels, and to do so by 2025. In addition, by 2030 we also want to halve the specific 
+energy consumption of our production facilities compared with the same baseline (2005). Doubling  
+our energy efficiency in this way will be a significant lever in reducing indirect specific greenhouse  
+gas emissions.
+In 2016, we were able to optimize our energy efficiency further, achieving an increase of 34.5% compared 
+with the baseline year 2005.√  This represented an improvement of 5.9% over 2015.√  Once again, our 
+energy management system STRUCT eseTM made a contribution to this achievement. At the same  
+time, specific greenhouse gas emissions (CO2 equivalents) dropped by a total of 40.9% from our  
+baseline year, 2005.√  Specific emissions in 2016 sank by 3.6% compared with 2015.√  Our innovative 
+products and processes help ensure that our customers can also increase efficiency and reduce  
+environmental impacts. 
+11.1  Energy Consumption
+Our production volume grew by 5.5% in 2016, while at the same time our energy consumption remained 
+approximately at the prior-year level.√  The company’s total energy consumption was down 0.44%, and 
+equivalent primary energy consumption was down 0.81%.√  Equivalent primary energy consumption 
+comprises the fuels used directly at Covestro for the purpose of generating energy and the forms of 
+energy sourced from outside the company (secondary energy), such as electricity, steam, and refrigeration, 
+recalculated to reflect the energy required to generate them. We were able to unlink energy consumption 
+from the increase in production through efficiency improvements in our production facilities. In addition, 
+the high level of capacity utilization at our plants positively affected this trend.
+
+Section: GRI, Score: 0.5931620597839355
+Text: 37
+GRI Supplementary Report 2016
+ 12.  Corporate Citizenship
+In the UK, Covestro was the headline sponsor for the 2016 annual Design Innovation in Plastics  
+competition – the longest established student plastics competition of its kind in Europe. It produced 
+high-quality entries which ranged from an innovative horse strap which prevents injury, a dog feeder to 
+prevent lungworm and a ball to improve dog mouth hygiene. This competition has boosted many students 
+in their careers as well as raising the awareness among universities of fostering innovative thinking. 
+Covestro continues to work with the Moscow-based fashion studio “Begraniz Couture” specialized in 
+designing outfits for disabled people. In 2016 we organized a five-day “fashion workshop” at our premises 
+in Leverkusen (Germany), inviting fashion-design students and product designers to learn about Uni -
+versal Design. As a result, the participants designed two outfits for disabled people considering the 
+special needs and material properties. 
+Covestro continues providing its support for sports and cultural events at the Dormagen, Krefeld-Uerdingen 
+and Leverkusen sites in Germany. Similarly, in 2016, Covestro became a sponsor of the German Ice 
+Hockey League (Deutsche Eishockey Liga or DEL), since its high-tech materials are well suited for that 
+sport to protect athletes from injury. 
+In cooperation with the university hospital in Düsseldorf (Germany), Covestro organized three events at 
+its property, where employees could get themselves typecasted for bone marrow donation. 
+United States, Canada and Mexico 
+Our U.S. sites supported employee volunteering and fundraising initiatives. Among others, employees 
+across the United States raised €500,000 for the Workplace Campaign of the charity “United Way” 
+through a combination of creative fundraisers and payroll deductions. 
+Covestro employees have also been volunteering for Habitat for Humanity in the Kanawha and and 
+Putnam Counties. This included renovation work, partial demolition and the construction of homes for 
+the needy. 
+Furthermore, Covestro sponsored the MRI Humanitarian Materials Initiative award hosted by Penn State 
+University, to support ongoing research that is aimed at providing long-term and sustainable solutions 
+to problems in under-resourced regions of the world. Covestro donated to a project that investigates 
+moringa-coated sand filters for water purification.
+
 Section: GRI, Score: 0.5155668258666992
 Text: 40
 GRI Supplementary Report 2016
@@ -258,9 +734,252 @@ p. 120Section 13
  Compliance /  
 p. 38
 
+Section: GRI, Score: 0.8540358543395996
+Text: GRI Supplementary Report 2016
+ Publishing Information
+Publisher
+Covestro AGKaiser-Wilhelm-Allee 6051373 LeverkusenGermany  
+Email: info@covestro.com
+www.covestro.com
+Entry in the Commercial Register  
+of the Cologne District Court
+Amtsgericht Köln: HRB 85281T urnover tax ID no.: DE815579850
+Project manager and contact 
+for questions relating to the contentCorporate Sustainability
+Dr. Eric W. Bischof
+Email: sustainability@covestro.com
+Consulting sustainability content
+FutureCamp Climate GmbHMunich, Germany
+Editorial support
+Edelman.ergo GmbHCologne/Munich, Germany
+Translation
+Leinhäuser Language Services GmbH
+Unterhaching, Germany
+Design and layout
+TERRITORY CTR GmbHLeverkusen, Germany
+Photo credits   
+Page 2: photo collage by TERRITORY   
+(with elements of Adobe Stock,  
+Michael Rennertz, Thorsten Martin)
+IR contact
+Email: ir@covestro.com
+Press contact
+Email: communications@covestro.com
+Covestro  aG
+Kaiser-Wilhelm-Allee 60
+51373 Leverkusen  
+Germany
+Email : info@covestro.com
+covestro.com
+Publishing Information
 
 
-===== GRI.pdf =====
+
+===== 350101_2.pdf =====
+Section: GRI, Score: 0.7376245260238647
+Text: 01 / 2016 INTEGRATED ANNUAL REPORT
+01
+02
+03
+04
+05
+06ABOUT US
+• Letter to the shareholders 
+• About Lala• Lala’s achievements• Sales per segment• Lala growth
+OUR SUSTAINABILITY MODEL 
+• Sustainable strategy• Relationship with groups of interest
+LALA LOOKS AFTER YOU TO GROW TOGETHER
+• We believe in a world of possibilities • We believe in a natural world• We believe in an integral world• We believe in a balanced world
+CORPORATE GOVERNMENT
+ABOUT THIS REPORT
+• Materiality
+• Verification letter
+GRI INDEX
+• We strengthen our principles 
+• Organizations and Chambers
+• Administration Council
+• Information about Action 
+• Statements for the future
+• Contact and information for shareholders
+
+Section: GLOBAL REPORTING INITIATIVE, Score: 0.6436789035797119
+Text: GLOBAL MEXICO CENTRAL AMERICA UNITED STATES06 / WHO WE ARE /  2016 INTEGRATED ANNUAL REPORT
+PRODUCTIVE INFRASTRUCTURE  
+[G4-5, G4-6, G4-8, G4-9]
+22
+factories
+166 
+distribution centers
++7,000 
+delivery routes 
++34,000 
+collaborators14 
+factories
+154  
+distribution centers
++6,700  
+delivery routes
++32,000 
+collaborators5 
+factories
+12 
+distribution centers
++250  
+delivery routes
++2,000 
+collaborators3 
+factories
+350  
+collaborators01
+
+Section: GLOBAL REPORTING INITIATIVE, Score: 0.5582371950149536
+Text: 08 / WHO WE ARE /  2016 INTEGRATED ANNUAL REPORT
+01SALES PER SEGMENT
+63.3%
+31.0%MILK
+DAIRY BYPRODUCTS
+LALA GROWTH
+An 11.0% growth in our 
+Gross Sales, resulting in $53,468 million pesos.
+51 million pesos expansion 
+in EBITDA
+(2) resulting in 
+$6,861 million pesos.
+An increment of 6.2% in 
+Consolidated Gross Profit closing in $4,193 million pesos.5.7%
+BEVERAGES  
+AND OTHERS
+11.0%
+51
+6.2%
+
+Section: GLOBAL REPORTING INITIATIVE, Score: 0.5738597512245178
+Text: 23 / LALA LOOKS AFTER YOU TO GROW TOGETHER / 2016 INTEGRATED ANNUAL REPORT
+03SUPPLIERS 
+» We buy directly from manufacturers.
+» We give priority to the use of natural ingredients.» Primary suppliers have certified quality systems. 
+INGREDIENTS
+» Through a standardization process, we guarantee 
+that the products have the ingredients and  
+proportions that are offered to clients.
+DEVELOPMENT
+» Verification of historical performance 
+assessment carried out by our Quality area.
+» Management and needed communication for 
+the ingredients, processes and products for its elaboration.
+» Heat treatment for pasteurized and  
+ultra-pasteurized products.
+QUALITY ASSURANCE
+» In Lala we have a quality system based on  
+proactive engineering platforms, which enables us to manufacture products of excellence that meet the expectations of our customers. Lala’s quality system is certified and approved by the initiative GFSI (Global Food Safety Initiative), recognized and accepted at a global level.EVALUATION
+All our products are submitted to evaluation through all the process:
+Concept  development
+Research and development
+CertificationManufacture and Production.
+Marketing 
+and promotion.Storage,  
+distribution 
+and supplyUse and 
+service.Disposal, reuse and /
+or recycling
+
+Section: GLOBAL REPORTING INITIATIVE, Score: 0.561725914478302
+Text: 24 / LALA LOOKS AFTER YOU TO GROW TOGETHER / 2016 INTEGRATED ANNUAL REPORT
+03QUALITY OF OUR PRODUCTS
+PROCESS WITHOUT STRESS OR HORMONES» Through the fulfillment of high national and 
+international standards we guarantee the quality 
+of all our products.
+» We maintain an index of less  
+than one complain per million manufactured products.
+» To guarantee the quality and 
+safety of our products, we  adhere to the Global Food  Safety Initiative (GFSI) in which 17 of our factories are certified.
+» The 95% of our raw material suppliers 
+are enrolled in the Development and Approval of Suppliers Program..
+The 95% of our raw material suppliers 
+are enrolled in the Development and Approval of Suppliers Program.
+» Based on NOM 251: “Practices of hygiene for  
+food, beverages or food supplements processes”, 
+we have implemented quality programs in our Distribution Centers.
+» A good genetic selection, in 
+a stress-free environment, accompanied by a balanced diet and a hygienic milking processes, have enabled Lala Group suppliers produce an international quality fresh  and natural milk. We have a  
+commitment with  our milk suppliers  to avoid the injection of STBr hormone  in their cows. 
+Lala milk is  
+originally natural, 
+which ensures the 
+best nutritional 
+quality.
+
+Section: GRI, Score: 0.6239969730377197
+Text: 0442 / CORPORATE GOVERMENT /  2016 INTEGRATED ANNUAL REPORT
+SHAREHOLDERS AND INVESTORS 
+CONTACT INFORMATIONS
+[G4-5, G4-6, G4-7, G4-31] 
+Grupo Lala Headquarters
+Calzada Carlos Herrera Araluce 185, Parque Industrial Carlos A. Herrera Araluce, Gómez Palacio, Durango, C.P. 35079
+Relationships with Investors
+Anaid Sustaita+52 (55) 9177 5900investor.relations@grupolala.com
+Social Responsibility
+Rafael Garza Jáuregui+52 (871) 729 3100rafael.garza@grupolala.com
+Independent Auditors
+Galaz, Yamazaki, Ruiz Urquiza, S. C. Boulevard Independencia 1819-B Ote.Colonia San IsidroTorreón, Coahuila, MéxicoC.P. 27100
+Lala Administración y Control, S.A. de C.V.
+Calzada Carlos Herrera Araluce 185, Parque Industrial Carlos A. Herrera Araluce, Gómez Palacio, Durango, C.P. 35079, México.
+
+Section: GLOBAL REPORTING INITIATIVE, Score: 0.5326505303382874
+Text: 43 /  2016 INTEGRATED ANNUAL REPORT
+05
+REPORTABOUT THIS
+We present our 2016 integrated  
+report in its eleventh edition, where we 
+highlight financial, environmental, social, 
+and Corporate Government results  corresponding the period from  
+January 1st to December 2016 in Mexico, 
+Central America and the United States. [G4-3, G4-7, G4-13, G4-15, G4-17, G4-22, G4-23, G4-28, G4-29, G4-30, G4-32]
+For the first time, we started operating under our sustainability 
+model, whose axis are: Planet, Society, Consumers, Enterprise and Corporate Government, reflecting the results of this imple-mentation in the present document. We have also included our new beliefs:  » We believe in a world of possibilities.» We believe in a natural world.» We believe in an integral world.» We believe in a balanced world.In these beliefs, we depict and transmit the importance that  each group of interest has for us, and those material aspects  deemed most important. 
+From these changes, and as part of the new corporate strategy,  
+the 2016 inform was modified in the way we report environmental indicators to more practically visualize the advance accomplished through time. 
+This report was elaborated under the guidelines of the Global  
+Reporting Initiative (GRI), version G4, and independently verified  by ILUNKA Sustainable Strategy. 
+We are also aligned to the Global Compact Principles and to  
+the Sustainable Development Objectives established by the UN  and to the Sustainability Index Principles, proposed by the Mexican Stock Market, through the methodology of Anahuac University. 
+For any further information, visit  www.grupolala.com
+
+Section: GRI, Score: 0.7580647468566895
+Text: 45 / ABOUT THIS REPORT /  INFORME ANUAL 2016
+05MATERIAL TOPICS AND INDICATORS GRI G4   
+[G4-19, G4-20, G4-21]
+ Material Topic Coverage  Indicator
+  Interna Externa 
+1 Handling and final disposition of residues X X G4-EN23, G4-EN27
+2 Proceedings for the assessment and  X X G4-EN29, G4-EN31,  
+ control of social and environmental risks   G4-EN11
+3 Regarding of the RSE rulings by the  X  G4-EN32  
+ livestock breeders. 
+4 Eco efficiency of water and energy  X X G4-EN6, G4-EN8,  
+ consume   G4-EN9, G4-EN10,  
+    G4-EN22
+5 Greenhouse effect gases (methane gas)  X X  G4-EN19, G4-EN30  
+ resulting from production and distribution     
+ of the product 
+6 Social and economic benefits for the local   X X G4-SO1  
+ community and minimize impact 
+7 Transparency, publicity and labeling of  X X G4-PR2, G4-PR3,  
+ products and services   G4-PR4, G4-PR6,  
+    G4-PR7
+8 Product innovation X X G4-PR1
+9 Collaborators’ wellbeing (internal,   X  G4-LA5  
+ operational and field) 
+10 Collaborator’s training X  G4-LA9, G4-LA10,  
+ and development   G4-LA11
+11 Diversity and inclusion value X  G4-LA12
+12 Suppliers regarding of the RSE regulations  X  G4-LA14  
+ of the company 
+13 Responsible purchasing, fostering local   X X G4-SO9  
+ economy of the small and medium   
+ businesses 
+14 Ethical Behavior X  G4-SO4
+
 Section: ÍNDICE GRI, Score: 0.5145612955093384
 Text: 47 / ÍNDICE GRI /  2016 INTEGRATED ANNUAL REPORT
 06GENERAL STANDARD DISCLOSURES
