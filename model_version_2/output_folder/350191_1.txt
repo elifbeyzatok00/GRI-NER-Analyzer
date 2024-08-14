@@ -1,11 +1,11 @@
-Eşleşen isim: 350191_1
+Matching name: 350191_1
 Direct Answers:
 - Environmental performance
 - Social performance
 - Operating performance
 The Texts on PDF's Reference Pages: 
 
---- Sayfa 1 (Gerçek Sayfa 3) ---
+--- Page 1 (Real Page 3) ---
  
  
 3 
@@ -172,7 +172,7 @@ Employee turnover (%)
 
 
 ========================================
---- Sayfa 2 (Gerçek Sayfa 4) ---
+--- Page 2 (Real Page 4) ---
  
  
 4 
@@ -267,7 +267,7 @@ ing an external service provider
 
 
 ========================================
---- Sayfa 3 (Gerçek Sayfa 5) ---
+--- Page 3 (Real Page 5) ---
  
  
 5 
@@ -303,7 +303,7 @@ available.
 
 
 ========================================
---- Sayfa 4 (Gerçek Sayfa 6) ---
+--- Page 4 (Real Page 6) ---
  
  
 6 

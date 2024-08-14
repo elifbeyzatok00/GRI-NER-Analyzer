@@ -12,6 +12,8 @@ This project involves extracting report texts from a JSON file, creating and eva
 - **Technologies:** Python, SpaCy, JSON
 - **Description:** Data labeling is performed using the [NER Annotation Tool](https://tecoholic.github.io/ner-annotator/). This tool allows for labeling entities (e.g., GRI standards, page references) in the text. (The NER Annotation Tool GitHub repository: [ner-annotator GitHub](https://github.com/tecoholic/ner-annotator)) Labeled JSON files are used to extract and clean text and entity information, which is then used to create datasets. This dataset is divided into `TRAIN_DATA` and `EVAL_DATA` for model training and evaluation.
 
+To learn how to use this NER Annotation Tool and how to make Annotations (labeling) [read the Notion Notebook](https://hurricane-look-532.notion.site/NER-Annotation-Tool-Kullan-m-K-lavuzu-9626fb7cd6584d5490e575185e95bc48).
+
 ### 3. Creating and Training the NER Model
 
 - **Objective:** Create and train a custom NER model using SpaCy.

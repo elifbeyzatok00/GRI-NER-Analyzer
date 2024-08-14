@@ -1,7 +1,7 @@
-Eşleşen isim: 350131_1
+Matching name: 350131_1
 The Texts on PDF's Reference Pages: 
 
---- Sayfa 14 (Gerçek Sayfa 16) ---
+--- Page 14 (Real Page 16) ---
 16
 GRI Supplementary Report 2016
 3.4  Value Creation
@@ -44,7 +44,7 @@ Value added
 
 
 ========================================
---- Sayfa 15 (Gerçek Sayfa 17) ---
+--- Page 15 (Real Page 17) ---
 17
 GRI Supplementary Report 2016
  
@@ -115,7 +115,7 @@ Protection"
 
 
 ========================================
---- Sayfa 16 (Gerçek Sayfa 18) ---
+--- Page 16 (Real Page 18) ---
 18
 GRI Supplementary Report 2016
  

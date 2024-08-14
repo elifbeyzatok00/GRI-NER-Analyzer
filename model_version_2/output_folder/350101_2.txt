@@ -1,7 +1,7 @@
-Eşleşen isim: 350101_2
+Matching name: 350101_2
 The Texts on PDF's Reference Pages: 
 
---- Sayfa 6 (Gerçek Sayfa 8) ---
+--- Page 6 (Real Page 8) ---
 0 7  /  W H O  W E  A R E  /   2 0 1 6  I N T E G R AT E D  A N N U A L  R E P O R T
 01
 +1.9  
@@ -57,7 +57,7 @@ CERTIFICATIONS AND ACKNOWLEDGMENTS
 
 
 ========================================
---- Sayfa 7 (Gerçek Sayfa 9) ---
+--- Page 7 (Real Page 9) ---
 0 8  /  W H O  W E  A R E  /   2 0 1 6  I N T E G R AT E D  A N N U A L  R E P O R T
 01
 SALES PER SEGMENT
@@ -86,7 +86,7 @@ AND OTHERS
 
 
 ========================================
---- Sayfa 8 (Gerçek Sayfa 10) ---
+--- Page 8 (Real Page 10) ---
 0 9  /  W H O  W E  A R E  /   2 0 1 6  I N T E G R AT E D  A N N U A L  R E P O R T
 01
 PERFORMANCE IN FIGURES  
@@ -255,7 +255,7 @@ ECONOMIC VALUE (5)
 
 
 ========================================
---- Sayfa 9 (Gerçek Sayfa 11) ---
+--- Page 9 (Real Page 11) ---
 1 0  /  W H O  W E  A R E  /   2 0 1 6  I N T E G R AT E D  A N N U A L  R E P O R T
 CERTIFICATIONS AND ACKNOWLEDGMENTS
 01
