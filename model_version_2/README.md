@@ -1,4 +1,21 @@
-This project involves extracting report texts from a JSON file, creating and evaluating a Named Entity Recognition (NER) model using Natural Language Processing (NLP) techniques. The project steps and technologies used are summarized below:
+This project involves extracting report texts from a JSON file, creating and evaluating a Named Entity Recognition (NER) model using Natural Language Processing (NLP) techniques.
+
+Here’s a table summarizing the project files and their descriptions:
+
+| **File/Folder**                  | **Description**                                                                                                                           |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| `02_text_8_reports`              | Raw, unlabeled text files corresponding to reports processed from the original PDFs. Used as input for the NER model.                     |
+| `02_text_8_reports_annotations`  | Labeled JSON files containing annotations from the NER model for the corresponding reports.                                               |
+| `custom_ner_model`               | The supervised NER model used to label entities in the text files.                                                                        |
+| `EN pdfs`                        | Original PDF files from which text was extracted.                                                                                         |
+| `output_folder`                  | Contains the final output of the Main Model, including processed data, results, and summaries.                                            |
+| `02_text_8`                      | A sample JSON file demonstrating how labeled data appears when visualized with Spacy's Displacy tool.                                     |
+| `Model`                          | The Main Model, a pipeline or collection of scripts that processes text data, applies entity recognition, and generates the final output. |
+| `NER Annotation Tool User Guide` | A guide for the annotation process, essential for understanding how the labeled data was created.                                         |
+| `reports_checkpoint`             | Saves progress in processing `reports_dict` to ensure continuity.                                                                         |
+| `reports_dict`                   | Contains the structure and summary of processed reports, including report IDs and annotations.                                            |
+
+## The project steps and technologies used are summarized below:
 
 ### 1. Extracting Data from JSON File and Converting to Text Files
 
