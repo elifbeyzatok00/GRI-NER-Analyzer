@@ -1,4 +1,4 @@
-# Project README
+# GRI NER Analyzer
 
 This project includes two different model versions for processing and analyzing data from PDF documents and JSON files. This README file provides an overview of the features, technologies, and steps for both models.
 
